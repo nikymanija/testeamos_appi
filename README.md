@@ -23,7 +23,7 @@ Este comando mostrará por terminal los resultados.
 Mostrará los resultados por terminal y además guardará en la carpeta **_testresults_** un archivo con los resultados
 
 ```console
-cat testresults/TestResults_2022-07-13.txt
+cat testresults/TestResults_2022-11-16.txt
                                                        
 PASS test/controllers/other.test.js
 PASS test/controllers/product.test.js
